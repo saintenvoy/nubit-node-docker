@@ -1,5 +1,5 @@
 # 使用官方的 Ubuntu 基础镜像
-FROM ubuntu:22.04
+FROM ubuntu:24.04
 
 # 设置环境变量以避免交互式配置
 ENV DEBIAN_FRONTEND=noninteractive
